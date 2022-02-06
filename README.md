@@ -1,2 +1,2 @@
 # Projeto-Fruta-e-Fruto
-Projeto criado no curso de CSS da Alura
+Projeto criado com objetivo de treinar o que foi passado no curso de HTML e CSS.
